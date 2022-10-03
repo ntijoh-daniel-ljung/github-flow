@@ -1,2 +1,2 @@
 # github-flow
-Learning GitHub Flow
+Learning GitHub Flow - and how branches functions.
